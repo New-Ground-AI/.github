@@ -1,13 +1,7 @@
 ## Hi there 👋
 
-<!--
+AAAAA Community is a research collective spanning universities, labs, and industry. Members work at or have trained at McGill University, Mila, MBZUAI, MIT, the University of Cambridge, Imperial College London, City University of Hong Kong, and more, as well as at places such as Salesforce, RBC Borealis, Wayfair, and Next Pathway.
 
-**Here are some ideas to get you started:**
+The group includes undergraduates, graduate students, postdoctoral researchers, and engineers. Together they study generative models, agentic systems, retrieval, alignment, and multimodal intelligence, and carry that work into production systems.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-We build intelligent systems that can act with purpose, learn from change, and grow toward ambitious goals.
+[Meet our researchers](https://aaaaa-academia-attractions.github.io/people/), and [Welcome to join us](https://aaaaa-academia-attractions.github.io/join/), to build advanced, analytical and adaptive intelligence together.
