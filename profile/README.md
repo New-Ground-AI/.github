@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-AAAAA Community is a research collective spanning universities, labs, and industry. Members work at or have trained at McGill University, Mila, MBZUAI, MIT, the University of Cambridge, Imperial College London, City University of Hong Kong, and more, as well as at places such as Salesforce, RBC Borealis, Wayfair, and Next Pathway.
+New Ground AI Community is a research collective spanning universities, labs, and industry. Members work at or have trained at McGill University, Mila, MBZUAI, MIT, the University of Cambridge, Imperial College London, City University of Hong Kong, and more, as well as at places such as Salesforce, RBC Borealis, Wayfair, and Next Pathway.
 
 The group includes undergraduates, graduate students, postdoctoral researchers, and engineers. Together they study generative models, agentic systems, retrieval, alignment, and multimodal intelligence, and carry that work into production systems.
 
