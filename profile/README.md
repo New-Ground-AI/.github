@@ -4,4 +4,4 @@ New Ground AI Community is a research collective spanning universities, labs, an
 
 The group includes undergraduates, graduate students, postdoctoral researchers, and engineers. Together they study generative models, agentic systems, retrieval, alignment, and multimodal intelligence, and carry that work into production systems.
 
-[Meet our researchers](https://aaaaa-academia-attractions.github.io/people/), and [Welcome to join us](https://aaaaa-academia-attractions.github.io/join/), to build advanced, analytical and adaptive intelligence together.
+[Meet our researchers](https://new-ground-ai.github.io/people/), and [Welcome to join us](https://new-ground-ai.github.io/join/), to build advanced, analytical and adaptive intelligence together.
